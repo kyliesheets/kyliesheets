@@ -13,7 +13,11 @@ My least favorite class is English or history, but it really just depends on the
 | ------------- |:-------------:| -----:|
 | 40     | 1 | 1 |
 
-I have a good start for 2024, so hopefully I don't end up like how I did in 2023 again. Bye!
+I have a good start for 2024, so hopefully I don't end up like how I did in 2023 again.
+
+```javascript
+Thanks for reading!
+```
 
 
 
